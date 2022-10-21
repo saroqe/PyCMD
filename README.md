@@ -1,6 +1,8 @@
-# PyShell
-A "terminal", but in python. Use with your Operating System if you are making one
+# PyShell OSVER
+***THIS IS NOT A RAT, THIS IS A "TERMINAL" FOR AN OPERATING SYSTEM***
+***Renamed the repo as most PyShell results would be "Python RAT" or something like that.***
 
+A "terminal", but in python.
 Current commands:
 PyShell --mkdir Makes a dir(Working)
 
