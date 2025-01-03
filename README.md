@@ -1,10 +1,4 @@
-# PyShell OSVER
-
-***WINDOWS MAY MARK THE EXECUTABLE AS UNSAFE, I HAVE SUBMITTED A FORM AND YOU CAN CHECK THE PYTHON FILE TO MAKE SURE IT IS SAFE.***
-
-***THIS IS NOT A RAT, THIS IS A "TERMINAL" FOR AN OPERATING SYSTEM***
-
-***Renamed the repo as most PyShell results would be "Python RAT" or something like that.***
+**silly lil "terminal" thing i made a while back**
 
 A "terminal", but in python.
 Current commands:
